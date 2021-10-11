@@ -38,3 +38,7 @@ async def detect_spam_path(message: str):
 
 #/spam_detection_query/?message='ello, please reply to this message'
 #https://towardsdatascience.com/how-you-can-quickly-deploy-your-ml-models-with-fastapi-9428085a87bf
+
+#git push https://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@github.com/CheikhTidianeCTB/spam_detection.git
+
+#  tester un commit
